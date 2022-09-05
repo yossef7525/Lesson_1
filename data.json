@@ -1,4 +1,4 @@
- compiuters = [
+   [
     {id: 1, brand: 'Hp', product: 'Laptop', price: '1200', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
     {id: 2, brand: 'Hp', product: 'Desktop', price: '1500', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
     {id: 3, brand: 'Hp', product: 'Desktop', price: '2200', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
