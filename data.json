@@ -1,0 +1,18 @@
+ compiuters = [
+    {id: 1, brand: 'Hp', product: 'Laptop', price: '1200', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id: 2, brand: 'Hp', product: 'Desktop', price: '1500', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id: 3, brand: 'Hp', product: 'Desktop', price: '2200', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+    {id: 4, brand: 'Hp', product: 'Desktop', price: '2600', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+    {id: 5, brand: 'Dell', product: 'Laptop', price: '1200', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id: 6, brand: 'Dell', product: 'Desktop', price: '1500', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id: 7, brand: 'Dell', product: 'Desktop', price: '2200', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+    {id: 8, brand: 'Dell', product: 'Desktop', price: '2600', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+    {id: 9, brand: 'Asus', product: 'Laptop', price: '1200', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id: 10, brand: 'Asus', product: 'Desktop', price: '1500', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id:11, brand: 'Asus', product: 'Desktop', price: '2200', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+    {id: 12, brand: 'Asus', product: 'Desktop', price: '2600', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+    {id: 13, brand: 'Lanovo', product: 'Laptop', price: '1200', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id: 14, brand: 'Lanovo', product: 'Desktop', price: '1500', memory: 4, storage: 225, hardDisk: 'ssd',Processor: 'i5'},
+    {id: 15, brand: 'Lanovo', product: 'Desktop', price: '2200', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+    {id: 16, brand: 'Lanovo', product: 'Desktop', price: '2600', memory: 8, storage: 225, hardDisk: 'ssd',Processor: 'i7'},
+]
