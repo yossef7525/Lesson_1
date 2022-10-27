@@ -67,6 +67,12 @@ namespace TIC_TAC_TOE
 
         public static bool Test(string[] list)
         {
+            if (Tyko(list)) {
+                Console.Clear();
+                PrintTable(list);
+                Console.WriteLine($"Tyko game is exited!! buy buy!!");
+                return false;
+            }
             if (list[0] == list[1] && list[1] == list[2])
             {
                 Console.Clear();
@@ -132,6 +138,21 @@ namespace TIC_TAC_TOE
             Console.ForegroundColor = ConsoleColor.White;
 
         }
+
+        public static bool Tyko(string[] list)
+        {
+            bool flag = true;
+            foreach (var item in list)
+            {
+                if (int.TryParse(item, out int num))
+                {
+                    flag = false;
+                    return flag;
+                }
+            }
+            return flag;
+        }
+
         public static int[] Users()
         {
             int[] users = new int[2];
